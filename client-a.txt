@@ -3,10 +3,17 @@
 # ------------------------------------------------- #
 
 START
-Pick a single number between 1 and 10
-IF player picks the same number
+
+Set variable "answer" to a single number between 1 and 10
+
+IF player inputs "answer"
 	Print "Congratulations!"
+	END
+
 ELSE
 	Print "Try again."
-Repeat up three times
+	REPEAT
+
+Repeat no more than three times
+
 END
