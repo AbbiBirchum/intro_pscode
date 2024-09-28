@@ -2,3 +2,13 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+START
+
+Set customer starting location in 50x50 grid representing warehouse.
+
+Set target location in 50x50 grid representing warehouse. 
+
+Give customer option to move one space north, south, east, or west.
+	Loop until customer reaches target location. 
+
+END
