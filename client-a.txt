@@ -2,3 +2,11 @@
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
+START
+Pick a single number between 1 and 10
+IF player picks the same number
+	Print "Congratulations!"
+ELSE
+	Print "Try again."
+Repeat up three times
+END
