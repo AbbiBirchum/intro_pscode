@@ -7,7 +7,9 @@ START
 Set variable "i" to 2
 
 WHILE "i" is less than or equal to 50
+	Print "i"
 	Increment "i" by 2
+	
 
 END WHILE
 
